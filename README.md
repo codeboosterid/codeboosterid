@@ -1,3 +1,19 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+21976
+Fork on GitHub
+6999
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Faizal Harwin</h1>
 <h3 align="center">Full-stack developer from Indonesia, passionate about coding.</h3>
 
@@ -23,7 +39,7 @@
 <a href="https://fb.com/codeboosterid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codeboosterid" height="30" width="40" /></a>
 <a href="https://instagram.com/codeboosterid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codeboosterid" height="30" width="40" /></a>
 <a href="https://medium.com/@codeboosterid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@codeboosterid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codeboosterid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codeboosterid" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CodeboosterID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucekjbcejyxoie06_zcpbvya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,3 +50,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeboosterid&show_icons=true&locale=en" alt="codeboosterid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeboosterid&" alt="codeboosterid" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
